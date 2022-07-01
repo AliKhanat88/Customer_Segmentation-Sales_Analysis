@@ -37,8 +37,12 @@ the name of the segment the definition of the segment the intervals for the rece
 
 
 # Others problems we solved
+
 -Top 5 customers by their average spending to our ecommerce store
+
 -Most sold out products
+
 -Most consistent customers that are the love of our ecommerce store
+
 -Which city has highest orders
 
