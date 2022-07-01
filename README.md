@@ -46,3 +46,6 @@ the name of the segment the definition of the segment the intervals for the rece
 
 -Which city has highest orders
 
+-variable orders on days of week
+
+-Monthly wise orders 
