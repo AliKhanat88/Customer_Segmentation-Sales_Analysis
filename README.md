@@ -1,6 +1,6 @@
-# Customer_Segmentation-Sales_Analysis
+# Ecommerce Sales_Analysis
 # RFM Analysis
-Implementing the customer segmentation on the business' data using RFM analysis with R and making inferences about the best, loyal, potential, and churned out customers for the business.
+Implementing the customer segmentation on the business' data using RFM analysis with SQL and making inferences about the best, loyal, potential, and churned out customers for the business.
 
 RFM (Recency, Frequency & Monetary) analysis: “is a behavior based technique used to segment customers by examining their transaction history.”
 
