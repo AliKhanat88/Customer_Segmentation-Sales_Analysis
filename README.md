@@ -1,4 +1,4 @@
-# Ecommerce Sales_Analysis
+# Customer segmentation and Sales Analysis
 # RFM Analysis
 Implementing the customer segmentation on the business' data using RFM analysis with SQL and making inferences about the best, loyal, potential, and churned out customers for the business.
 
